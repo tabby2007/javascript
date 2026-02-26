@@ -23,3 +23,8 @@ console.log("The county is",county)
 //null data type: it is a data type that contains null values
 let username = null
 console.log("What is the username?",username)
+
+//object data type: It is a data type that can store multiple related values and behaviours together in one unit
+
+
+//array data type: it is a data type used to store multiple values in a single variable, usually of the same type, arranged in order
